@@ -9,9 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@datalust/winston-seq": "^2.0.0",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "kafkajs": "^2.2.4",
     "mysql2": "^3.11.0",
-    "nacos": "^2.6.0"
+    "nacos": "^2.6.0",
+    "winston": "^3.17.0"
   }
 }
