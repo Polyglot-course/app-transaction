@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-transaction
-        image: polyglotxt/nodejs-aws-transaction:1
+        image: loaizamateo96/nodejs-aws-transaction:6
         ports:
         - containerPort: 8080
         env:
